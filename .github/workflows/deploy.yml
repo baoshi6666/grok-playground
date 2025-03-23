@@ -29,7 +29,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "baoshi6666-grok-playgr-10"
+          project: "grok-playgr-34"
           entrypoint: "main.ts"
           root: "."
           
